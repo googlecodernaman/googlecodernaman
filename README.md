@@ -1,6 +1,6 @@
 # Hi, I'm Naman 👋
 
-### AI Engineer | Full-Stack Developer | Builder
+### AI Engineer | Product Builder | Solution Oriented Critical Thinker
 
 Building AI agents, intelligent workflows, and software products that solve real-world problems.
 
@@ -18,7 +18,7 @@ Building AI agents, intelligent workflows, and software products that solve real
 
 ## 🏗 Featured Projects
 
-### 🥗 Aarogya AI
+### 🩺💊 AarogyaAI – Privacy-First Medical AI with LLM Council & Federated Learning
 
 AI-powered nutrition and healthcare assistant that provides intelligent recommendations and personalized insights.
 
@@ -26,11 +26,11 @@ AI-powered nutrition and healthcare assistant that provides intelligent recommen
 
 Retrieval-Augmented Generation system for extracting, understanding, and querying bill and invoice information.
 
-### 🌐 Intelligent Browsing Agent
+### 🌐 Autonomous AI Browsing Agent for E-commerce
 
 Autonomous AI agent capable of browsing, researching, and performing multi-step information gathering tasks.
 
-### 🎵 NeuroSound AI
+### 🎵 Neuro-Sound AI – Personalized Music Generation using Deep Learning
 
 AI-powered audio intelligence platform exploring speech, sound, and generative AI applications.
 
