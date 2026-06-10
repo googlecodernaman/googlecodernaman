@@ -40,11 +40,11 @@ AI-powered audio intelligence platform exploring speech, sound, and generative A
 
 ### Languages & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,react,vite,nodejs,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,react,vite,nodejs,mongodb)](https://skillicons.dev)
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 ---
 
 ## 📚 Currently Learning
