@@ -75,14 +75,6 @@ AI-powered audio intelligence platform exploring speech, sound, and generative A
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
-
----
-
 ## 🎯 Beyond Code
 
 Apart from engineering, I'm passionate about storytelling, worldbuilding, AI ethics, filmmaking, and building ambitious products that can impact millions.
