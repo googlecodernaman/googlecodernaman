@@ -63,6 +63,15 @@ AI-powered audio intelligence platform exploring speech, sound, and generative A
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
+## 🛠 Tech Stack
+
+### Languages & Frameworks
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,react,vite,nodejs,express,mongodb)](https://skillicons.dev)
+
+### Tools
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)
 ---
 
 ## 📚 Currently Learning
