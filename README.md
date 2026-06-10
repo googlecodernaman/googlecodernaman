@@ -99,7 +99,7 @@ AI-powered audio intelligence platform exploring speech, sound, and generative A
 - LLMs
 - RAG
 
-## 📚 Currently Learning
+## 📚 Currently Experimenting with -
 
 * Multi-Agent Architectures
 * Model Context Protocol (MCP)
@@ -113,5 +113,3 @@ AI-powered audio intelligence platform exploring speech, sound, and generative A
 
 Apart from engineering, I'm passionate about storytelling, worldbuilding, AI ethics, filmmaking, and building ambitious products that can impact millions.
 
-- ⚡ Fun fact: ...
--->
